@@ -1,0 +1,1 @@
+export { faDuckDuckGo } from "./fa-duckduckgo";
